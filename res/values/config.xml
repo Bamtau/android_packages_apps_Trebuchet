@@ -8,10 +8,10 @@
     <!-- The alpha of the AppsCustomize bg in spring loaded mode -->
     <integer name="config_appsCustomizeSpringLoadedBgAlpha">45</integer>
     <!-- Fade in/out duration of icons being dragged from the trays -->
-    <integer name="config_dragAppsCustomizeIconFadeInDuration">150</integer>
-    <integer name="config_dragAppsCustomizeIconFadeOutDuration">200</integer>
+    <integer name="config_dragAppsCustomizeIconFadeInDuration">135</integer>
+    <integer name="config_dragAppsCustomizeIconFadeOutDuration">180</integer>
     <integer name="config_dragAppsCustomizeIconFadeAlpha">100</integer>
-    <integer name="config_workspaceUnshrinkTime">300</integer>
+    <integer name="config_workspaceUnshrinkTime">280</integer>
     <!-- Out of 100, the percent to shrink the workspace during spring loaded mode. -->
     <integer name="config_workspaceSpringLoadShrinkPercentage">80</integer>
     <!-- When items are dropped on the mini screens in customize mode, we have a bounce animation
@@ -25,17 +25,17 @@
 
     <!-- Fade/zoom in/out duration & scale in the AllApps transition.
          Note: This should be less than the workspaceShrinkTime as they happen together. -->
-    <integer name="config_appsCustomizeZoomInTime">350</integer>
-    <integer name="config_appsCustomizeZoomOutTime">600</integer>
+    <integer name="config_appsCustomizeZoomInTime">330</integer>
+    <integer name="config_appsCustomizeZoomOutTime">530</integer>
     <integer name="config_appsCustomizeZoomScaleFactor">7</integer>
-    <integer name="config_appsCustomizeFadeInTime">250</integer>
-    <integer name="config_appsCustomizeFadeOutTime">200</integer>
-    <integer name="config_appsCustomizeWorkspaceShrinkTime">300</integer>
+    <integer name="config_appsCustomizeFadeInTime">230</integer>
+    <integer name="config_appsCustomizeFadeOutTime">180</integer>
+    <integer name="config_appsCustomizeWorkspaceShrinkTime">280</integer>
     <integer name="config_appsCustomizeWorkspaceAnimationStagger">40</integer>
     <integer name="config_workspaceAppsCustomizeAnimationStagger">100</integer>
 
     <!-- Tab transition animation duration -->
-    <integer name="config_tabTransitionDuration">250</integer>
+    <integer name="config_tabTransitionDuration">230</integer>
 
     <!-- The slope, in percent, of the drag movement needed to drag an item out of
          AppsCustomize (y / x * 100%)  -->
@@ -59,7 +59,7 @@
 
     <!-- The duration (in ms) of the fade animation on the object outlines, used when
          we are dragging objects around on the home screen. -->
-    <integer name="config_dragOutlineFadeTime">900</integer>
+    <integer name="config_dragOutlineFadeTime">800</integer>
 
     <!-- The alpha value at which to show the most recent drop visualization outline. -->
     <integer name="config_dragOutlineMaxAlpha">128</integer>
