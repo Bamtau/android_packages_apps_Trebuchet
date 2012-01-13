@@ -26,14 +26,14 @@
                     android:title="@string/preferences_interface_homescreen_general_screens_title"
                     android:summary="@string/preferences_interface_homescreen_general_screens_summary"
                     android:defaultValue="5"
-                    launcher:max="7"
+                    launcher:max="9"
                     launcher:min="1" />
                 <com.cyanogenmod.trebuchet.preference.NumberPickerPreference android:key="ui_homescreen_default_screen"
                     android:title="@string/preferences_interface_homescreen_general_default_screen_title"
                     android:summary="@string/preferences_interface_homescreen_general_default_screen_summary"
                     android:defaultValue="3"
                     launcher:maxExternal="ui_homescreen_screens"
-                    launcher:max="7"
+                    launcher:max="9"
                     launcher:min="1" />
                 <CheckBoxPreference android:key="ui_homescreen_general_search"
                     android:title="@string/preferences_interface_homescreen_general_search_title"
@@ -82,18 +82,6 @@
                     android:defaultValue="true"
                     android:dependency="ui_drawer_indicator_enable" />
             </PreferenceCategory>
-        </PreferenceScreen>
-
-        <!-- Dock -->
-        <PreferenceScreen android:key="ui_dock"
-            android:title="@string/preferences_interface_dock_title">
-
-        </PreferenceScreen>
-
-        <!-- Icons -->
-        <PreferenceScreen android:key="ui_icons"
-            android:title="@string/preferences_interface_icons_title">
-
         </PreferenceScreen>
 
         <!-- General -->
