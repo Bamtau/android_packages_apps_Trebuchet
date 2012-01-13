@@ -311,12 +311,6 @@ s -->
     <string name="preferences_interface_drawer_indicator_fade_title">Fade Indicator</string>
     <string name="preferences_interface_drawer_indicator_fade_summary">Fade the indicator after the page has changed</string>
 
-    <!-- Dock -->
-    <string name="preferences_interface_dock_title">Dock - coming soon</string>
-
-    <!-- Icons -->
-    <string name="preferences_interface_icons_title">Icons - coming soon</string>
-
     <!-- General -->
     <string name="preferences_interface_general_title">Miscellaneous</string>
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
