@@ -21,9 +21,9 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translateable="false">Trebuchet</string>
+    <string name="application_name" translateable="false">BamtauMod</string>
     <!-- Application copyright -->
-    <string name="application_copyright">Copyright \u00A9 CyanogenMod 2012</string>
+    <string name="application_copyright">Trebuchet \u00A9 CyanogenMod 2012</string>
     <!-- Application version -->
     <string name="application_version">0.1</string>
 
@@ -232,7 +232,7 @@ s -->
 
     <!-- Clings -->
     <!-- The title text for the workspace cling [CHAR_LIMIT=none] -->
-    <string name="workspace_cling_title">Make yourself at home</string>
+    <string name="workspace_cling_title">Welcome home! Enjoy some ice cream!</string>
     <!-- The description of how to use the workspace [CHAR_LIMIT=none] -->
     <string name="workspace_cling_move_item">You can put your favorite apps here.</string>
     <!-- The description of how to open all apps from the workspace [CHAR_LIMIT=none] -->
@@ -244,7 +244,7 @@ s -->
     <!-- The title text for the All Apps Sort cling [CHAR_LIMIT=none] -->
     <string name="all_apps_sort_cling_title">Sort your apps</string>
     <!-- The description of how to pick sort apps in the drawer [CHAR_LIMIT=none] -->
-    <string name="all_apps_sort_cling_add_item">Touch &amp; hold the Apps tab to select your sort mode</string>
+    <string name="all_apps_sort_cling_add_item">Touch &amp; hold the Apps tab to select a sort mode</string>
     <!-- The title text for the Folder cling [CHAR_LIMIT=none] -->
     <string name="folder_cling_title">Organize your apps with folders</string>
     <!-- The description of how to move an app [CHAR_LIMIT=none] -->
@@ -288,11 +288,11 @@ s -->
     <string name="preferences_interface_homescreen_general_default_screen_title">Default Screen</string>
     <string name="preferences_interface_homescreen_general_default_screen_summary">Choose the default homescreen</string>
     <string name="preferences_interface_homescreen_general_search_title">Search Bar</string>
-    <string name="preferences_interface_homescreen_general_search_summary">Enable persistent search bar</string>
-    <string name="preferences_interface_homescreen_general_resize_any_widget_title">Resize any widget</string>
-    <string name="preferences_interface_homescreen_general_resize_any_widget_summary">Allow resizing of widgets that normally aren\'t resizeable</string>
+    <string name="preferences_interface_homescreen_general_search_summary">Enable persistent Google search bar</string>
+    <string name="preferences_interface_homescreen_general_resize_any_widget_title">Resizeable widgets</string>
+    <string name="preferences_interface_homescreen_general_resize_any_widget_summary">Resize any widget that normally are not resizeable</string>
     <string name="preferences_interface_homescreen_scrolling_category">Scrolling</string>
-    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_title">Scroll Wallpaper</string>
+    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_title">Scrollable Wallpaper</string>
     <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_summary">Scroll wallpaper when scrolling homescreens</string>
     <string name="preferences_interface_homescreen_indicator_category">Indicator</string>
     <string name="preferences_interface_homescreen_indicator_enable_title">Show Page Indicator</string>
@@ -301,7 +301,7 @@ s -->
     <string name="preferences_interface_homescreen_indicator_fade_summary">Fade the indicator after the homescreen has changed</string>
 
     <!-- Drawer -->
-    <string name="preferences_interface_drawer_title">Drawer</string>
+    <string name="preferences_interface_drawer_title">App &amp; Widget Drawer</string>
     <string name="preferences_interface_drawer_widgets_category">Widgets</string>
     <string name="preferences_interface_drawer_widgets_join_apps_title">Join with Apps</string>
     <string name="preferences_interface_drawer_widgets_join_apps_summary">Swipe from apps drawer to widgets drawer without changing tabs</string>
@@ -312,13 +312,13 @@ s -->
     <string name="preferences_interface_drawer_indicator_fade_summary">Fade the indicator after the page has changed</string>
 
     <!-- Dock -->
-    <string name="preferences_interface_dock_title">Dock</string>
+    <string name="preferences_interface_dock_title">Dock - coming soon</string>
 
     <!-- Icons -->
-    <string name="preferences_interface_icons_title">Icons</string>
+    <string name="preferences_interface_icons_title">Icons - coming soon</string>
 
     <!-- General -->
-    <string name="preferences_interface_general_title">General</string>
+    <string name="preferences_interface_general_title">Miscellaneous</string>
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
 
 </resources>
