@@ -17,5 +17,23 @@
 
 <resources>
     <string-array name="extra_wallpapers">
+        <item>wallpaper_alone</item>
+        <item>wallpaper_orca</item>
+        <item>wallpaper_rain</item>
+        <item>wallpaper_misty_mountain</item>
+        <item>wallpaper_android_4</item>
+        <item>wallpaper_android_6</item>
+        <item>wallpaper_bluecrystal</item>
+        <item>wallpaper_bucky</item>
+        <item>wallpaper_city</item>
+        <item>wallpaper_lightning_63</item>
+        <item>wallpaper_lotus</item>
+        <item>wallpaper_nature_85</item>
+        <item>wallpaper_nature_111</item>
+        <item>wallpaper_oceanlife_10</item>
+        <item>wallpaper_oceanlife_16</item>
+        <item>wallpaper_oceanlife_17</item>
+        <item>wallpaper_oceanlife_18</item>
+        <item>wallpaper_village</item>
     </string-array>
 </resources>
